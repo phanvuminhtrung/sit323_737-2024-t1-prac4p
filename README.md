@@ -1,6 +1,8 @@
 ## ABOUT THE PROJECT
-- This is a simple calculator service implemented in Node.js using Express and Winston for logging. It supports basic arithmetic operations: addition, subtraction, multiplication, and division.
-- This is repo is for task 4.1P - SIT323 - 2024.
+- This is a simple calculator service implemented in Node.js using Express and Winston for logging.
+- It supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+- It also enhancement to apply additional arithmetic operations: exponentiation, square root, modulo
+- This is repo is for task 4.1P & 4.1C - SIT323 - 2024.
 
 ## AUTHOR
 - SIT323 – TASK4.1P, TASK4.1C
@@ -12,6 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 - Node.js
 - npm
+- npm install express winston (for logging)
 
 ### Installing
 1. Clone the repository
