@@ -3,8 +3,8 @@
 - This is repo is for task 4.1P - SIT323 - 2024.
 
 ## AUTHOR
-SIT323 – TASK4.1P, TASK4.1C
-VU MINH TRUNG PHAN – 221438973
+- SIT323 – TASK4.1P, TASK4.1C
+- VU MINH TRUNG PHAN – 221438973
 
 ## GETTING STARTED
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -37,4 +37,6 @@ The service uses Winston for logging. All logs are formatted in JSON and stored 
 To start the service, run:
 - node calculatorwithlogger.js
 - enter example url to your browser (http://localhost:3040/subtract?n1=1&n2=2)
+<img width="242" alt="image" src="https://github.com/phanvuminhtrung/sit323_737-2024-t1-prac4p/assets/63788637/75433864-1cef-4210-9a77-10283979e98d">
+
 
